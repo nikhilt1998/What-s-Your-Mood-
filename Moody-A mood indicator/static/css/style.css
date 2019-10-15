@@ -1,0 +1,91 @@
+body {
+   background-image:url('emoji2.jpeg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-weight: 600;
+ }
+label{
+  display: flex;
+  padding: 20px;
+}
+.label-class{
+	margin-left: -200px;
+	font-weight: bold;
+}
+
+.list-item-mine{
+  background-image: url('download.jpeg');
+  font-weight: 900;
+  color: blue; 
+  font-family: cursive;
+}
+
+.list-item-mine1{
+   background-image: url('download.jpeg');
+   font-weight: bold;
+   color:#000099;
+ }
+
+ .list-item-mine2{
+   background-image: url('download.jpeg');
+   font-weight: bold;
+   color:#ff0000;
+ }
+
+ .list-item-mine3{
+   background-image: url('download.jpeg');
+   font-weight: bold;
+   color:  #cc00ff;
+ }
+
+ .list-item-mine4{
+   background-image: url('download.jpeg');
+   font-weight: 900;
+   color: blue;
+ }
+
+ .list-item-mine5{
+   background-image: url('download.jpeg');
+   font-weight: bold;
+   color: brown ;
+ }
+
+ .list-item-mine6{
+   background-image: url('download.jpeg');
+   font-weight: bold;
+   color: red;
+ }
+#name-field{
+	width: 50em;
+	color: black;
+}
+.submit-div{
+  padding: 1em;
+  margin-left: -70px;
+}
+
+p#greeting{
+ 	margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 40px;
+ }
+
+.submit-div{
+ 	display: block;
+    padding: 10px;
+ }
+
+ .update-div {
+    display: block;
+    margin-left: -29em;
+    padding: 20px;
+}
+ .dropdown{
+ 	margin-left: -4.0em;
+ }
+
+ #update-class{
+ 	margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 20px;
+ }
